@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/aksr-aashish/Vexana3.0"><img src="https://img.shields.io/github/stars/aksr-aashish/Vexana3.0?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
 </p>
 <p align="center">
     <a href="https://github.com/aksr-aashish/Vexana3.0"> <img src="https://img.shields.io/github/repo-size/aksr-aashish/Vexana3.0?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
